@@ -1,6 +1,6 @@
 # Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A MERN stack ecommerce application in which JWT is used for authentication and dummyJSON API is used for fetching products. This application has various functionalities like search product, filter product by price and category and it also has cart functionality.
 
 ## Available Scripts
 
